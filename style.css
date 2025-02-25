@@ -173,7 +173,7 @@ footer{
     bottom: 40px;
     left: 0;
     display: flex;
-    height: 5%;
+    height: 40px;
     width: 100%;
     max-width: 100%;
     background: linear-gradient(to right, var(--color-01), var(--color-03));
@@ -261,7 +261,7 @@ footer{
     }
 
     #girl{
-        height: 250px;
+        height: 300px;
         max-width: 100%;
     }
 
@@ -277,11 +277,6 @@ footer{
     #boy{
         height: 250px;
         max-width: 100%;
-    }
-
-    /*--CONFIGURAÇÕES DO FOOTER - MOBILE--*/
-    footer{
-        bottom: 20px;
     }
 }
 
